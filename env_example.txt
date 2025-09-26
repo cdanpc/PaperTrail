@@ -1,0 +1,16 @@
+
+# Supabase Configuration
+SUPABASE_URL=https://pvtfuyamidbkhjhzkre.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB2dGZ1eWFtaWRia2hqaHprcmUiLCJyb2xlIjoiYW5vbiIsImlhdCI6MTczNzUwMzMyNiwiZXhwIjoxNzY5MDc5MzI2fQ.jMUKU8c8oLNWcQ9hE5akG4Zn7kafxxxxxx
+
+# Django Configuration
+SECRET_KEY=django-insecure-change-this-in-production-123456789
+DEBUG=True
+
+# Database Configuration (Supabase PostgreSQL)
+# You'll need to get these from your Supabase project settings
+DB_NAME=postgres
+DB_USER=postgres.pvtfuyamidbkhjihzkre
+DB_PASSWORD=PaperTrail12345678910
+DB_HOST=aws-1-ap-southeast-1.pooler.supabase.com
+DB_PORT=6543

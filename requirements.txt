@@ -1,0 +1,26 @@
+# Core Django
+Django==4.2.7
+django-cors-headers==4.3.0
+
+# Database and Supabase
+supabase==2.0.3
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+
+# File handling
+Pillow==10.1.0
+python-magic==0.4.27
+
+# Forms and validation
+django-crispy-forms==2.1
+crispy-bootstrap5==2023.10
+
+# Authentication
+django-allauth==0.57.0
+
+# Search and filtering
+django-filter==23.4
+
+# Development tools
+django-debug-toolbar==4.2.0
+django-extensions==3.2.3
